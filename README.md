@@ -79,4 +79,3 @@ To scan QR code: download Google Authenticator App
 5) Follow steps and get access token
 6) Paste access token
 
-## [Demo Presentation - Youtube Link](paste link here - make sure to make it public per google form)
