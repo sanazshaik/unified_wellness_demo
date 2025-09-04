@@ -2,7 +2,7 @@
 # Unified Wellness — Hackathon Case Study #3 Demo
 # Personal Health & Wellness Aggregator
 
-## [Demo Presentation - Youtube Link](https://youtu.be/By8E54HCc-8)
+## [Demo Presentation - Youtube Link](https://youtu.be/5AL9-C3bq5s)
 
 ## Description
 A lightweight MVP that unifies health data (sleep, activity, nutrition, biometrics) and turns it into
